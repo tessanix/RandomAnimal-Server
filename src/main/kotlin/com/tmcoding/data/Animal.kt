@@ -4,7 +4,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Animal(
-    val name: String,
-    val description: String,
-    val imageUrl: String
+    var name: String? = null,
+    var description: String? = null,
+    var imageUrl: String? = null
 )

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Henry",
+    "description": "Henry is docile and very friendly.",
+    "imageUrl": "http://192.168.0.11:8850/animalImages/tiger.webp"
+  },
+  {
+    "name": "Jack",
+    "description": "Do not look at Jack in eyes too longer...",
+    "imageUrl": "http://192.168.0.11:8850/animalImages/bear.webp"
+  },
+  {
+    "name": "Corri",
+    "description": "She is so cute! I love Corri.",
+    "imageUrl": "http://192.168.0.11:8850/animalImages/ladybug.webp"
+  },
+  {
+    "name": "Garfield",
+    "description": "He is the clown of the team!",
+    "imageUrl": "http://192.168.0.11:8850/animalImages/puffer-fish.webp"
+  },
+  {
+    "name": "Timmy",
+    "description": "This dude is very intelligent",
+    "imageUrl": "http://192.168.0.11:8850/animalImages/elephant.webp"
+  }
+]
